@@ -1,5 +1,5 @@
 'use strict';
-/* global store, api, $ */
+// /* global store, api, $ */
 
 import {store} from './store';
 import {api} from './api';
