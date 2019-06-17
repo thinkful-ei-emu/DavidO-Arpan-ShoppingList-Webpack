@@ -85,3 +85,5 @@ const api = (function(){
     deleteItem,
   };
 }());
+
+export const api;

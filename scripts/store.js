@@ -52,3 +52,5 @@ const store = (function(){
   };
   
 }());
+
+export const store;
