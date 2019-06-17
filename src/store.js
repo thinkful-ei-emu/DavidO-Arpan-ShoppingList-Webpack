@@ -1,6 +1,6 @@
 'use strict';
 // eslint-disable-next-line no-unused-vars
-const store = (function(){
+export const store = (function(){
   const setError = function(error) {
     this.error = error;
   };
@@ -53,4 +53,4 @@ const store = (function(){
   
 }());
 
-export const store;
+
